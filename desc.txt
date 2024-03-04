@@ -2,3 +2,5 @@ Learning Github and Git Uses
 Topics - Why github
          Initialising git repository
          Staging the first changes.
+
+How it works - add->commit to store the history.
