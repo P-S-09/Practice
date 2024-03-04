@@ -1,1 +1,4 @@
 Learning Github and Git Uses 
+Topics - Why github
+         Initialising git repository
+         Staging the first changes.
